@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html><body><b><u><i><font size="4" color="red">Invitation</font></i></u></b><br/>
   <i><font size="2" color="green">You are heartily invited to the JANEU ceremony of Abhijeet Shukla</font></i>
   
